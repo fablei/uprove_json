@@ -1,0 +1,30 @@
+﻿{
+	"issuers":
+	[
+		{
+			"uidp":"c2FtcGxlIHNldCBtZW1iZXJzaGlwIGlzc3Vlcg==",
+			"descGq":
+			{
+				"type":"named",
+				"name":"1.3.6.1.4.1.311.75.1.2.1"
+			},
+			"uidh":"SHA-256",
+			"g":["BLR7tc2wJQesN3PkMZWIP5lnyPKNLo7LtnklC35jTmDPbfitX9Y1qPSgqs753LAs7MYYUfwE9ES9jNcHdnKI1ss="],
+			"e":"AQEB",
+			"s":"YXBwbGljYXRpb24tc3BlY2lmaWMgc3BlY2lmaWNhdGlvbg==",
+			"MaxNumberOfAttributes":3
+		},
+		{
+			"uidp":"c2FtcGxlIHJhbmdlIHByb29mIGlzc3Vlcg==",
+			"descGq":
+			{
+				"type":"named",
+				"name":"1.3.6.1.4.1.311.75.1.2.1"
+			},
+			"uidh":"SHA-256",
+			"g":["BG5Z+8QQYYothcCyXTdzgz3HYd8wy9zXHESwl+HoA8wv9wGq35bQf8SFieLs9ZtTtvPZktw7C+OazgwpHYbhZjI="],
+			"e":"AAE=",
+			"MaxNumberOfAttributes":2
+		}
+	]
+}

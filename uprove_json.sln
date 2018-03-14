@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uprove_json", "uprove_json\uprove_json.csproj", "{697851A2-9222-4776-A3B8-203ADAB5A699}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uprove_json_tests", "uprove_json_tests\uprove_json_tests.csproj", "{50DE1595-B0AE-4B9F-BA55-EBE2935490C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{697851A2-9222-4776-A3B8-203ADAB5A699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697851A2-9222-4776-A3B8-203ADAB5A699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697851A2-9222-4776-A3B8-203ADAB5A699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697851A2-9222-4776-A3B8-203ADAB5A699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50DE1595-B0AE-4B9F-BA55-EBE2935490C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50DE1595-B0AE-4B9F-BA55-EBE2935490C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50DE1595-B0AE-4B9F-BA55-EBE2935490C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50DE1595-B0AE-4B9F-BA55-EBE2935490C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
